@@ -12,24 +12,63 @@
                 "recipe_id": "1",
                 "recipeName": "Fish curry (Machher Jhol)",
                 "recipeImg": "https://i.ibb.co/LJmjK3j/macher-jhol.jpg",
-                "ingredients": "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well,3 tsp salt,6 tbsp of vegetable oil,4 garlic cloves crushed,600ml of warm water,1/2 tsp sugar",
-                "method": "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric, rub on all sides of the fish and set aside for 30 minutes,In a shallow saucepan, heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil, heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through. Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly. If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered, until the fillets are cooked through – this should take no longer than 5 minutes,To serve, garnish the fish with whole green chillies and sprigs of fresh coriander leaves",
+                "ingredients": [
+                    "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well",
+                    "3 tsp salt, 1/2 tsp sugar",
+                    "6 tbsp of vegetable oil",
+                    "4 garlic cloves crushed",
+                    "600ml of warm water"
+                ],
+                "method": [
+                    "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric",
+                    "Rub on all sides of the fish and set aside for 30 minutes",
+                    "In a shallow saucepan heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil",
+                    "heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through.Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly.",
+                    " If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered Until the fillets are cooked through – this should take no longer than 5 minutes,To serve",
+                    "garnish the fish with whole green chillies and sprigs of fresh coriander leaves"
+                ],
                 "rating": "4.5"
             },
             {
                 "recipe_id": "2",
                 "recipeName": "lentil soup (dal)",
                 "recipeImg": "https://i.ibb.co/CHTJgZX/images.jpg",
-                "ingredients": "1 cup red lentils 3 cups water 3 plum tomatoes, 2 teaspoons vegetable oil,1 bay leaf",
-                "method": "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.,rinse well and soak for 30 minutes.,now transfer the soaked dal to a pressure cooker.,add 1 inch ginger, 2 clove garlic, ¼ tsp turmeric, ½ tsp salt and 2 cup water.,mix well and simmer for 5 minutes or until the flavours are well absorbed.,finally, add 2 tbsp coriander and dal soup is ready to serve.",
+                "ingredients": [
+                    "1 cup red lentils ",
+                    "3 cups water ",
+                    "3 plum tomatoes",
+                    "2 teaspoons vegetable oil",
+                    "1 bay leaf"
+                ],
+                "method": [
+                    "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.",
+                    "Rinse well and soak for 30 minutes.",
+                    "Now transfer the soaked dal to a pressure cooker add 1 inch ginger, 2 clove garlic",
+                    " ¼ tsp turmeric, ½ tsp salt and 2 cup water.",
+                    "Mix well and simmer for 5 minutes or until the flavours are well absorbed.",
+                    "finally, add 2 tbsp coriander and dal soup is ready to serve."
+                ],
                 "rating": "4.4"
             },
             {
                 "recipe_id": "3",
                 "recipeName": "Sweet yogurt dessert (Mishti Doi)",
                 "recipeImg": "https://i.ibb.co/nm4JqSn/11805777-806253966136384-1867571982-n.jpg",
-                "ingredients": "1 litre full fat milk,3 cups water , 175 to 180 grams palm jaggery,1 teaspoon cardamom powder,2 tablespoons Curd or a yogurt starter",
-                "method": "Take 1 litre full fat milk in a heavy kadai or pan. Keep flame to low or medium-low and begin to heat milk,Stir occasionally when the milk is getting heated. Let the milk come to a boil,Add ½ teaspoon cardamom powder. Mix well and let the milk become warm.,Now add 2 tablespoons curd.,Mix very well till all the jaggery is dissolved.",
+                "ingredients": [
+                    "1 litre full fat milk",
+                    "3 cups water",
+                    " 175 to 180 grams palm jaggery",
+                    "1 teaspoon cardamom powder",
+                    "2 tablespoons Curd or a yogurt starter"
+                ],
+                "method": [
+                    "Take 1 litre full fat milk in a heavy kadai or pan.",
+                    " Keep flame to low or medium-low and begin to heat milk",
+                    "Stir occasionally when the milk is getting heated.",
+                    " Let the milk come to a boil,Add ½ teaspoon cardamom powder. ",
+                    "Mix well and let the milk become warm.",
+                    "Now add 2 tablespoons curd.Mix very well till all the jaggery is dissolved."
+                ],
                 "rating": "5.0"
             }
         ]
@@ -47,24 +86,63 @@
                 "recipe_id": "1",
                 "recipeName": "Fish curry (Machher Jhol)",
                 "recipeImg": "https://i.ibb.co/LJmjK3j/macher-jhol.jpg",
-                "ingredients": "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well,3 tsp salt,6 tbsp of vegetable oil,4 garlic cloves crushed,600ml of warm water,1/2 tsp sugar",
-                "method": "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric, rub on all sides of the fish and set aside for 30 minutes,In a shallow saucepan, heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil, heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through. Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly. If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered, until the fillets are cooked through – this should take no longer than 5 minutes,To serve, garnish the fish with whole green chillies and sprigs of fresh coriander leaves",
+                "ingredients": [
+                    "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well",
+                    "3 tsp salt, 1/2 tsp sugar",
+                    "6 tbsp of vegetable oil",
+                    "4 garlic cloves crushed",
+                    "600ml of warm water"
+                ],
+                "method": [
+                    "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric",
+                    "Rub on all sides of the fish and set aside for 30 minutes",
+                    "In a shallow saucepan heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil",
+                    "heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through.Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly.",
+                    " If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered Until the fillets are cooked through – this should take no longer than 5 minutes,To serve",
+                    "garnish the fish with whole green chillies and sprigs of fresh coriander leaves"
+                ],
                 "rating": "4.5"
             },
             {
                 "recipe_id": "2",
                 "recipeName": "lentil soup (dal)",
                 "recipeImg": "https://i.ibb.co/CHTJgZX/images.jpg",
-                "ingredients": "1 cup red lentils 3 cups water 3 plum tomatoes, 2 teaspoons vegetable oil,1 bay leaf",
-                "method": "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.,rinse well and soak for 30 minutes.,now transfer the soaked dal to a pressure cooker.,add 1 inch ginger, 2 clove garlic, ¼ tsp turmeric, ½ tsp salt and 2 cup water.,mix well and simmer for 5 minutes or until the flavours are well absorbed.,finally, add 2 tbsp coriander and dal soup is ready to serve.",
+                "ingredients": [
+                    "1 cup red lentils ",
+                    "3 cups water ",
+                    "3 plum tomatoes",
+                    "2 teaspoons vegetable oil",
+                    "1 bay leaf"
+                ],
+                "method": [
+                    "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.",
+                    "Rinse well and soak for 30 minutes.",
+                    "Now transfer the soaked dal to a pressure cooker add 1 inch ginger, 2 clove garlic",
+                    " ¼ tsp turmeric, ½ tsp salt and 2 cup water.",
+                    "Mix well and simmer for 5 minutes or until the flavours are well absorbed.",
+                    "finally, add 2 tbsp coriander and dal soup is ready to serve."
+                ],
                 "rating": "4.4"
             },
             {
                 "recipe_id": "3",
                 "recipeName": "Sweet yogurt dessert (Mishti Doi)",
                 "recipeImg": "https://i.ibb.co/nm4JqSn/11805777-806253966136384-1867571982-n.jpg",
-                "ingredients": "1 litre full fat milk,3 cups water , 175 to 180 grams palm jaggery,1 teaspoon cardamom powder,2 tablespoons Curd or a yogurt starter",
-                "method": "Take 1 litre full fat milk in a heavy kadai or pan. Keep flame to low or medium-low and begin to heat milk,Stir occasionally when the milk is getting heated. Let the milk come to a boil,Add ½ teaspoon cardamom powder. Mix well and let the milk become warm.,Now add 2 tablespoons curd.,Mix very well till all the jaggery is dissolved.",
+                "ingredients": [
+                    "1 litre full fat milk",
+                    "3 cups water",
+                    " 175 to 180 grams palm jaggery",
+                    "1 teaspoon cardamom powder",
+                    "2 tablespoons Curd or a yogurt starter"
+                ],
+                "method": [
+                    "Take 1 litre full fat milk in a heavy kadai or pan.",
+                    " Keep flame to low or medium-low and begin to heat milk",
+                    "Stir occasionally when the milk is getting heated.",
+                    " Let the milk come to a boil,Add ½ teaspoon cardamom powder. ",
+                    "Mix well and let the milk become warm.",
+                    "Now add 2 tablespoons curd.Mix very well till all the jaggery is dissolved."
+                ],
                 "rating": "5.0"
             }
         ]
@@ -82,24 +160,63 @@
                 "recipe_id": "1",
                 "recipeName": "Fish curry (Machher Jhol)",
                 "recipeImg": "https://i.ibb.co/LJmjK3j/macher-jhol.jpg",
-                "ingredients": "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well,3 tsp salt,6 tbsp of vegetable oil,4 garlic cloves crushed,600ml of warm water,1/2 tsp sugar",
-                "method": "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric, rub on all sides of the fish and set aside for 30 minutes,In a shallow saucepan, heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil, heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through. Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly. If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered, until the fillets are cooked through – this should take no longer than 5 minutes,To serve, garnish the fish with whole green chillies and sprigs of fresh coriander leaves",
+                "ingredients": [
+                    "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well",
+                    "3 tsp salt, 1/2 tsp sugar",
+                    "6 tbsp of vegetable oil",
+                    "4 garlic cloves crushed",
+                    "600ml of warm water"
+                ],
+                "method": [
+                    "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric",
+                    "Rub on all sides of the fish and set aside for 30 minutes",
+                    "In a shallow saucepan heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil",
+                    "heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through.Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly.",
+                    " If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered Until the fillets are cooked through – this should take no longer than 5 minutes,To serve",
+                    "garnish the fish with whole green chillies and sprigs of fresh coriander leaves"
+                ],
                 "rating": "4.5"
             },
             {
                 "recipe_id": "2",
                 "recipeName": "lentil soup (dal)",
                 "recipeImg": "https://i.ibb.co/CHTJgZX/images.jpg",
-                "ingredients": "1 cup red lentils 3 cups water 3 plum tomatoes, 2 teaspoons vegetable oil,1 bay leaf",
-                "method": "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.,rinse well and soak for 30 minutes.,now transfer the soaked dal to a pressure cooker.,add 1 inch ginger, 2 clove garlic, ¼ tsp turmeric, ½ tsp salt and 2 cup water.,mix well and simmer for 5 minutes or until the flavours are well absorbed.,finally, add 2 tbsp coriander and dal soup is ready to serve.",
+                "ingredients": [
+                    "1 cup red lentils ",
+                    "3 cups water ",
+                    "3 plum tomatoes",
+                    "2 teaspoons vegetable oil",
+                    "1 bay leaf"
+                ],
+                "method": [
+                    "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.",
+                    "Rinse well and soak for 30 minutes.",
+                    "Now transfer the soaked dal to a pressure cooker add 1 inch ginger, 2 clove garlic",
+                    " ¼ tsp turmeric, ½ tsp salt and 2 cup water.",
+                    "Mix well and simmer for 5 minutes or until the flavours are well absorbed.",
+                    "finally, add 2 tbsp coriander and dal soup is ready to serve."
+                ],
                 "rating": "4.4"
             },
             {
                 "recipe_id": "3",
                 "recipeName": "Sweet yogurt dessert (Mishti Doi)",
                 "recipeImg": "https://i.ibb.co/nm4JqSn/11805777-806253966136384-1867571982-n.jpg",
-                "ingredients": "1 litre full fat milk,3 cups water , 175 to 180 grams palm jaggery,1 teaspoon cardamom powder,2 tablespoons Curd or a yogurt starter",
-                "method": "Take 1 litre full fat milk in a heavy kadai or pan. Keep flame to low or medium-low and begin to heat milk,Stir occasionally when the milk is getting heated. Let the milk come to a boil,Add ½ teaspoon cardamom powder. Mix well and let the milk become warm.,Now add 2 tablespoons curd.,Mix very well till all the jaggery is dissolved.",
+                "ingredients": [
+                    "1 litre full fat milk",
+                    "3 cups water",
+                    " 175 to 180 grams palm jaggery",
+                    "1 teaspoon cardamom powder",
+                    "2 tablespoons Curd or a yogurt starter"
+                ],
+                "method": [
+                    "Take 1 litre full fat milk in a heavy kadai or pan.",
+                    " Keep flame to low or medium-low and begin to heat milk",
+                    "Stir occasionally when the milk is getting heated.",
+                    " Let the milk come to a boil,Add ½ teaspoon cardamom powder. ",
+                    "Mix well and let the milk become warm.",
+                    "Now add 2 tablespoons curd.Mix very well till all the jaggery is dissolved."
+                ],
                 "rating": "5.0"
             }
         ]
@@ -117,24 +234,63 @@
                 "recipe_id": "1",
                 "recipeName": "Fish curry (Machher Jhol)",
                 "recipeImg": "https://i.ibb.co/LJmjK3j/macher-jhol.jpg",
-                "ingredients": "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well,3 tsp salt,6 tbsp of vegetable oil,4 garlic cloves crushed,600ml of warm water,1/2 tsp sugar",
-                "method": "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric, rub on all sides of the fish and set aside for 30 minutes,In a shallow saucepan, heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil, heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through. Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly. If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered, until the fillets are cooked through – this should take no longer than 5 minutes,To serve, garnish the fish with whole green chillies and sprigs of fresh coriander leaves",
+                "ingredients": [
+                    "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well",
+                    "3 tsp salt, 1/2 tsp sugar",
+                    "6 tbsp of vegetable oil",
+                    "4 garlic cloves crushed",
+                    "600ml of warm water"
+                ],
+                "method": [
+                    "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric",
+                    "Rub on all sides of the fish and set aside for 30 minutes",
+                    "In a shallow saucepan heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil",
+                    "heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through.Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly.",
+                    " If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered Until the fillets are cooked through – this should take no longer than 5 minutes,To serve",
+                    "garnish the fish with whole green chillies and sprigs of fresh coriander leaves"
+                ],
                 "rating": "4.5"
             },
             {
                 "recipe_id": "2",
                 "recipeName": "lentil soup (dal)",
                 "recipeImg": "https://i.ibb.co/CHTJgZX/images.jpg",
-                "ingredients": "1 cup red lentils 3 cups water 3 plum tomatoes, 2 teaspoons vegetable oil,1 bay leaf",
-                "method": "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.,rinse well and soak for 30 minutes.,now transfer the soaked dal to a pressure cooker.,add 1 inch ginger, 2 clove garlic, ¼ tsp turmeric, ½ tsp salt and 2 cup water.,mix well and simmer for 5 minutes or until the flavours are well absorbed.,finally, add 2 tbsp coriander and dal soup is ready to serve.",
+                "ingredients": [
+                    "1 cup red lentils ",
+                    "3 cups water ",
+                    "3 plum tomatoes",
+                    "2 teaspoons vegetable oil",
+                    "1 bay leaf"
+                ],
+                "method": [
+                    "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.",
+                    "Rinse well and soak for 30 minutes.",
+                    "Now transfer the soaked dal to a pressure cooker add 1 inch ginger, 2 clove garlic",
+                    " ¼ tsp turmeric, ½ tsp salt and 2 cup water.",
+                    "Mix well and simmer for 5 minutes or until the flavours are well absorbed.",
+                    "finally, add 2 tbsp coriander and dal soup is ready to serve."
+                ],
                 "rating": "4.4"
             },
             {
                 "recipe_id": "3",
                 "recipeName": "Sweet yogurt dessert (Mishti Doi)",
                 "recipeImg": "https://i.ibb.co/nm4JqSn/11805777-806253966136384-1867571982-n.jpg",
-                "ingredients": "1 litre full fat milk,3 cups water , 175 to 180 grams palm jaggery,1 teaspoon cardamom powder,2 tablespoons Curd or a yogurt starter",
-                "method": "Take 1 litre full fat milk in a heavy kadai or pan. Keep flame to low or medium-low and begin to heat milk,Stir occasionally when the milk is getting heated. Let the milk come to a boil,Add ½ teaspoon cardamom powder. Mix well and let the milk become warm.,Now add 2 tablespoons curd.,Mix very well till all the jaggery is dissolved.",
+                "ingredients": [
+                    "1 litre full fat milk",
+                    "3 cups water",
+                    " 175 to 180 grams palm jaggery",
+                    "1 teaspoon cardamom powder",
+                    "2 tablespoons Curd or a yogurt starter"
+                ],
+                "method": [
+                    "Take 1 litre full fat milk in a heavy kadai or pan.",
+                    " Keep flame to low or medium-low and begin to heat milk",
+                    "Stir occasionally when the milk is getting heated.",
+                    " Let the milk come to a boil,Add ½ teaspoon cardamom powder. ",
+                    "Mix well and let the milk become warm.",
+                    "Now add 2 tablespoons curd.Mix very well till all the jaggery is dissolved."
+                ],
                 "rating": "5.0"
             }
         ]
@@ -152,24 +308,63 @@
                 "recipe_id": "1",
                 "recipeName": "Fish curry (Machher Jhol)",
                 "recipeImg": "https://i.ibb.co/LJmjK3j/macher-jhol.jpg",
-                "ingredients": "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well,3 tsp salt,6 tbsp of vegetable oil,4 garlic cloves crushed,600ml of warm water,1/2 tsp sugar",
-                "method": "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric, rub on all sides of the fish and set aside for 30 minutes,In a shallow saucepan, heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil, heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through. Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly. If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered, until the fillets are cooked through – this should take no longer than 5 minutes,To serve, garnish the fish with whole green chillies and sprigs of fresh coriander leaves",
+                "ingredients": [
+                    "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well",
+                    "3 tsp salt, 1/2 tsp sugar",
+                    "6 tbsp of vegetable oil",
+                    "4 garlic cloves crushed",
+                    "600ml of warm water"
+                ],
+                "method": [
+                    "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric",
+                    "Rub on all sides of the fish and set aside for 30 minutes",
+                    "In a shallow saucepan heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil",
+                    "heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through.Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly.",
+                    " If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered Until the fillets are cooked through – this should take no longer than 5 minutes,To serve",
+                    "garnish the fish with whole green chillies and sprigs of fresh coriander leaves"
+                ],
                 "rating": "4.5"
             },
             {
                 "recipe_id": "2",
                 "recipeName": "lentil soup (dal)",
                 "recipeImg": "https://i.ibb.co/CHTJgZX/images.jpg",
-                "ingredients": "1 cup red lentils 3 cups water 3 plum tomatoes, 2 teaspoons vegetable oil,1 bay leaf",
-                "method": "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.,rinse well and soak for 30 minutes.,now transfer the soaked dal to a pressure cooker.,add 1 inch ginger, 2 clove garlic, ¼ tsp turmeric, ½ tsp salt and 2 cup water.,mix well and simmer for 5 minutes or until the flavours are well absorbed.,finally, add 2 tbsp coriander and dal soup is ready to serve.",
+                "ingredients": [
+                    "1 cup red lentils ",
+                    "3 cups water ",
+                    "3 plum tomatoes",
+                    "2 teaspoons vegetable oil",
+                    "1 bay leaf"
+                ],
+                "method": [
+                    "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.",
+                    "Rinse well and soak for 30 minutes.",
+                    "Now transfer the soaked dal to a pressure cooker add 1 inch ginger, 2 clove garlic",
+                    " ¼ tsp turmeric, ½ tsp salt and 2 cup water.",
+                    "Mix well and simmer for 5 minutes or until the flavours are well absorbed.",
+                    "finally, add 2 tbsp coriander and dal soup is ready to serve."
+                ],
                 "rating": "4.4"
             },
             {
                 "recipe_id": "3",
                 "recipeName": "Sweet yogurt dessert (Mishti Doi)",
                 "recipeImg": "https://i.ibb.co/nm4JqSn/11805777-806253966136384-1867571982-n.jpg",
-                "ingredients": "1 litre full fat milk,3 cups water , 175 to 180 grams palm jaggery,1 teaspoon cardamom powder,2 tablespoons Curd or a yogurt starter",
-                "method": "Take 1 litre full fat milk in a heavy kadai or pan. Keep flame to low or medium-low and begin to heat milk,Stir occasionally when the milk is getting heated. Let the milk come to a boil,Add ½ teaspoon cardamom powder. Mix well and let the milk become warm.,Now add 2 tablespoons curd.,Mix very well till all the jaggery is dissolved.",
+                "ingredients": [
+                    "1 litre full fat milk",
+                    "3 cups water",
+                    " 175 to 180 grams palm jaggery",
+                    "1 teaspoon cardamom powder",
+                    "2 tablespoons Curd or a yogurt starter"
+                ],
+                "method": [
+                    "Take 1 litre full fat milk in a heavy kadai or pan.",
+                    " Keep flame to low or medium-low and begin to heat milk",
+                    "Stir occasionally when the milk is getting heated.",
+                    " Let the milk come to a boil,Add ½ teaspoon cardamom powder. ",
+                    "Mix well and let the milk become warm.",
+                    "Now add 2 tablespoons curd.Mix very well till all the jaggery is dissolved."
+                ],
                 "rating": "5.0"
             }
         ]
@@ -187,24 +382,63 @@
                 "recipe_id": "1",
                 "recipeName": "Fish curry (Machher Jhol)",
                 "recipeImg": "https://i.ibb.co/LJmjK3j/macher-jhol.jpg",
-                "ingredients": "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well,3 tsp salt,6 tbsp of vegetable oil,4 garlic cloves crushed,600ml of warm water,1/2 tsp sugar",
-                "method": "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric, rub on all sides of the fish and set aside for 30 minutes,In a shallow saucepan, heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil, heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through. Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly. If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered, until the fillets are cooked through – this should take no longer than 5 minutes,To serve, garnish the fish with whole green chillies and sprigs of fresh coriander leaves",
+                "ingredients": [
+                    "5kg fish fillets skinless and boneless white meaty fish such as cod or halibut work well",
+                    "3 tsp salt, 1/2 tsp sugar",
+                    "6 tbsp of vegetable oil",
+                    "4 garlic cloves crushed",
+                    "600ml of warm water"
+                ],
+                "method": [
+                    "Cut the fish into 12 equal portions. Mix 1 tsp of the salt and 1 tsp of the ground turmeric",
+                    "Rub on all sides of the fish and set aside for 30 minutes",
+                    "In a shallow saucepan heat 5 tbsp of the oil over a medium-high heat. If you are using mustard oil",
+                    "heat until it is smoking hot – this removes the bitter pungency of the oil – then bring it down to a medium-high heat. Add the fish to the pan and fry to seal each piece, but do not let the fillets cook through.Remove from the pan to a plate and set aside,Gently return the fish fillets to the pan and cover with the sauce, ensuring all sides of each fillet are cooking evenly.",
+                    " If possible, cook the fish fillets in a single layer in the pan as this will prevent them from breaking up into flakes. Lower the heat, add the sugar and cook, covered Until the fillets are cooked through – this should take no longer than 5 minutes,To serve",
+                    "garnish the fish with whole green chillies and sprigs of fresh coriander leaves"
+                ],
                 "rating": "4.5"
             },
             {
                 "recipe_id": "2",
                 "recipeName": "lentil soup (dal)",
                 "recipeImg": "https://i.ibb.co/CHTJgZX/images.jpg",
-                "ingredients": "1 cup red lentils 3 cups water 3 plum tomatoes, 2 teaspoons vegetable oil,1 bay leaf",
-                "method": "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.,rinse well and soak for 30 minutes.,now transfer the soaked dal to a pressure cooker.,add 1 inch ginger, 2 clove garlic, ¼ tsp turmeric, ½ tsp salt and 2 cup water.,mix well and simmer for 5 minutes or until the flavours are well absorbed.,finally, add 2 tbsp coriander and dal soup is ready to serve.",
+                "ingredients": [
+                    "1 cup red lentils ",
+                    "3 cups water ",
+                    "3 plum tomatoes",
+                    "2 teaspoons vegetable oil",
+                    "1 bay leaf"
+                ],
+                "method": [
+                    "firstly, in a bowl take 3 tbsp masoor dal, 3 tbsp moong dal and 2 tbsp toor dal.",
+                    "Rinse well and soak for 30 minutes.",
+                    "Now transfer the soaked dal to a pressure cooker add 1 inch ginger, 2 clove garlic",
+                    " ¼ tsp turmeric, ½ tsp salt and 2 cup water.",
+                    "Mix well and simmer for 5 minutes or until the flavours are well absorbed.",
+                    "finally, add 2 tbsp coriander and dal soup is ready to serve."
+                ],
                 "rating": "4.4"
             },
             {
                 "recipe_id": "3",
                 "recipeName": "Sweet yogurt dessert (Mishti Doi)",
                 "recipeImg": "https://i.ibb.co/nm4JqSn/11805777-806253966136384-1867571982-n.jpg",
-                "ingredients": "1 litre full fat milk,3 cups water , 175 to 180 grams palm jaggery,1 teaspoon cardamom powder,2 tablespoons Curd or a yogurt starter",
-                "method": "Take 1 litre full fat milk in a heavy kadai or pan. Keep flame to low or medium-low and begin to heat milk,Stir occasionally when the milk is getting heated. Let the milk come to a boil,Add ½ teaspoon cardamom powder. Mix well and let the milk become warm.,Now add 2 tablespoons curd.,Mix very well till all the jaggery is dissolved.",
+                "ingredients": [
+                    "1 litre full fat milk",
+                    "3 cups water",
+                    " 175 to 180 grams palm jaggery",
+                    "1 teaspoon cardamom powder",
+                    "2 tablespoons Curd or a yogurt starter"
+                ],
+                "method": [
+                    "Take 1 litre full fat milk in a heavy kadai or pan.",
+                    " Keep flame to low or medium-low and begin to heat milk",
+                    "Stir occasionally when the milk is getting heated.",
+                    " Let the milk come to a boil,Add ½ teaspoon cardamom powder. ",
+                    "Mix well and let the milk become warm.",
+                    "Now add 2 tablespoons curd.Mix very well till all the jaggery is dissolved."
+                ],
                 "rating": "5.0"
             }
         ]
